@@ -26,7 +26,7 @@ The greetings change depending on the time of the day. For example, “Good morn
 
     gh repo clone NimaFakoor/greeting-based-on-time-of-day
 
- Generally, There are 4 ways to compile and execute a C# program as follows:
+ commonly, There are 4 ways to compile and execute a C# program as follows:
 
 ## 1 : online
 
